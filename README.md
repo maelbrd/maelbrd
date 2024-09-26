@@ -1,6 +1,6 @@
 # 🚀 Welcome to my Github Page !
 
-Bienvenue dans **Mon Projet GitHub** ! Ce projet a pour but de [brève description de ce que fait ton projet]. L'objectif est de rendre [objectif principal].
+Bienvenue dans **Mon Projet GitHub** ! Ce projet a pour but de [présenter un peu ce que je fais dans ma vie].
 
 ![Logo du projet](https://via.placeholder.com/600x200.png?text=Mon+Projet) <!-- Remplace par ton propre lien d'image -->
 
