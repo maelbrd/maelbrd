@@ -2,7 +2,7 @@
 
 Bienvenue dans **Mon Projet GitHub** ! Ce projet a pour but de présenter un peu ce que je fais dans ma vie.
 
-![Logo du projet](https://via.placeholder.com/600x200.png?text=Mon+Projet) <!-- Remplace par ton propre lien d'image -->
+![Mon Image](../img1.png)
 
 ## 📋 Sommaire
 1. [À propos](#à-propos)
