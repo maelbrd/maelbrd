@@ -2,7 +2,7 @@
 
 Bienvenue dans **Mon Projet GitHub** ! Ce projet a pour but de présenter un peu ce que je fais dans ma vie.
 
-![Mon Image](https://github.com/maelbrd/maelbrd/blob/main/img1.png)
+![Mon Image](https://github.com/maelbrd/maelbrd/blob/main/img.png)
 
 ## 📋 Sommaire
 1. [À propos](#à-propos)
