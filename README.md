@@ -1,6 +1,6 @@
 # 🚀 Welcome to my Github Page !
 
-I didn't use GitHub often, but I have some fun project :)
+I don't use GitHub often, but I have some fun project :)
 I love CyberSecurity and System Administration
 
 
