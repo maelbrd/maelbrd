@@ -22,7 +22,7 @@ I actually travel around the world, but i was a student in **Network and Telecom
   </div>
   
   <div align="center">
-    <h3 style="text-align: center;">Cloud &amp;</h3>
+    <h3 style="text-align: center;">Cloud</h3>
       <img src="https://skillicons.dev/icons?i=aws" width="60">
       <img src="https://skillicons.dev/icons?i=azure" width="60">
       <img src="https://skillicons.dev/icons?i=windows" width="60">
@@ -43,7 +43,7 @@ I actually travel around the world, but i was a student in **Network and Telecom
   </div>
   
   <div align="center">
-    <h3 style="text-align: center;">DevOps &amp;</h3>
+    <h3 style="text-align: center;">DevOps</h3>
       <img src="https://skillicons.dev/icons?i=bash" width="60">
       <img src="https://skillicons.dev/icons?i=docker" width="60">
       <img src="https://skillicons.dev/icons?i=git" width="60">
