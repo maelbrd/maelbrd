@@ -1,6 +1,5 @@
 # 🚀 Welcome to my Github Page !
 
-<img height="250px" src="" align="right" />
 
 I actually travel around the world, but i was a student in **Network and Telecomunications** at Grenoble, with a passion for **cybersecurity**. I love to learn new skills like **CTF** (Capture the Flag) challenges and **pentesting**.
 
