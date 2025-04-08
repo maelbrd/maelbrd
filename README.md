@@ -40,7 +40,7 @@ I actually travel around the world, but i was a student in **Network and Telecom
     <h3 style="text-align: center;">Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=py" width="60">
       <img src="https://skillicons.dev/icons?i=powershell" width="60">
-      <img src="https://skillicons.dev/icons?i=ps1" width="60">
+      <img src="https://skillicons.dev/icons?i=java" width="60">
   </div>
   
   <div align="center">
